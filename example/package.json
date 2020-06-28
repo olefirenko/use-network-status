@@ -8,6 +8,7 @@
     "build": "parcel build index.html"
   },
   "dependencies": {
+    "Demo": "^1.0.0",
     "react-app-polyfill": "^1.0.0"
   },
   "alias": {

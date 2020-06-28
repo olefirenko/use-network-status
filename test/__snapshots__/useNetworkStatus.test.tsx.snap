@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`useNetworkStatus renders without crashing 1`] = `
+<div
+  style={
+    Object {
+      "alignItems": "center",
+      "display": "flex",
+      "fontSize": "36px",
+      "height": "100vh",
+      "justifyContent": "center",
+    }
+  }
+>
+  📡 Online
+</div>
+`;
