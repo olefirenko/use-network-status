@@ -4,7 +4,7 @@ import renderer from 'react-test-renderer';
 
 describe('useNetworkStatus', () => {
   it('renders without crashing', () => {
-    const tree = renderer.create(<Demo />).toJSON()
-    expect(tree).toMatchSnapshot()
+    const tree = renderer.create(<Demo />).toJSON();
+    expect(tree).toMatchSnapshot();
   });
 });
