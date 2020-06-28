@@ -33,9 +33,9 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "use-network-status-1",
+  "name": "use-network-status",
   "author": "olefirenko",
-  "module": "dist/use-network-status-1.esm.js",
+  "module": "dist/use-network-status.esm.js",
   "devDependencies": {
     "@babel/core": "^7.10.3",
     "@storybook/addon-actions": "^5.3.19",
