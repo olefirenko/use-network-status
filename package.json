@@ -35,6 +35,11 @@
   },
   "name": "use-network-status",
   "author": "Dmytro Olefyrenko <dmitriy.olefirenko@gmail.com>",
+  "homepage": "https://github.com/olefirenko/use-network-status",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olefirenko/use-network-status.git"
+  },
   "module": "dist/use-network-status.esm.js",
   "devDependencies": {
     "@babel/core": "^7.14.8",
