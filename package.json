@@ -60,7 +60,7 @@
     "react-is": "^16.13.1",
     "react-test-renderer": "^16.14.0",
     "ts-loader": "^7.0.5",
-    "tsdx": "^0.14.1",
+    "tsdx": "^2.0.0",
     "tslib": "^2.3.0",
     "typescript": "^3.9.10"
   }
